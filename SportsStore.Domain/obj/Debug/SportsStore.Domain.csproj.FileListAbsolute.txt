@@ -7,3 +7,8 @@ C:\Users\Xavier\Documents\visual studio 2013\Projects\SportsStore\Samples\Sports
 C:\Users\Xavier\Documents\visual studio 2013\Projects\SportsStore\Samples\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
 C:\Users\Xavier\Documents\visual studio 2013\Projects\SportsStore\Samples\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 C:\Users\Xavier\Documents\visual studio 2013\Projects\SportsStore\Samples\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\Xavier\Documents\Visual Studio 2013\Projects\GitHub\Samples\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\Xavier\Documents\Visual Studio 2013\Projects\GitHub\Samples\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\Xavier\Documents\Visual Studio 2013\Projects\GitHub\Samples\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Xavier\Documents\Visual Studio 2013\Projects\GitHub\Samples\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\Xavier\Documents\Visual Studio 2013\Projects\GitHub\Samples\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
