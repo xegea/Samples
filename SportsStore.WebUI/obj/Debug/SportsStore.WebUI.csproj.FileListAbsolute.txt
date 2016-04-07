@@ -64,3 +64,7 @@ C:\Users\Xavier\Documents\Visual Studio 2013\Projects\GitHub\Samples\SportsStore
 C:\Users\Xavier\Documents\Visual Studio 2013\Projects\GitHub\Samples\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 C:\Users\Xavier\Documents\Visual Studio 2013\Projects\GitHub\Samples\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 C:\Users\Xavier\Documents\Visual Studio 2013\Projects\GitHub\Samples\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\Xavier\Documents\Visual Studio 2013\Projects\GitHub\Samples\SportsStore.WebUI\bin\Castle.Core.dll
+C:\Users\Xavier\Documents\Visual Studio 2013\Projects\GitHub\Samples\SportsStore.WebUI\bin\Castle.Windsor.dll
+C:\Users\Xavier\Documents\Visual Studio 2013\Projects\GitHub\Samples\SportsStore.WebUI\bin\Castle.Core.xml
+C:\Users\Xavier\Documents\Visual Studio 2013\Projects\GitHub\Samples\SportsStore.WebUI\bin\Castle.Windsor.xml

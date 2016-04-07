@@ -1,5 +1,4 @@
-﻿using System.Configuration;
-using SportsStore.Domain.Abstract;
+﻿using SportsStore.Domain.Abstract;
 using SportsStore.Domain.Concrete;
 using System.Web.Mvc;
 using SportsStore.Domain.Entities;
@@ -10,10 +9,8 @@ namespace SportsStore.WebUI.Controllers
     public class ProductController : Controller
     {
         private readonly IProductRepository productRepository;
-        //public ProductController(IProductRepository productRepository)
-        public ProductController()
+        public ProductController(IProductRepository productRepository)
         {
-            //this.productRepository = productRepository;
             this.productRepository = new ProductRepository();
         }
 
